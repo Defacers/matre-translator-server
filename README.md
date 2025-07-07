@@ -1,4 +1,4 @@
-# Matre Translator Lite
+# Matre Translator Server
 
 Translator AI ringan berbasis FastAPI untuk hasil OCR dari komik/manga.
 
